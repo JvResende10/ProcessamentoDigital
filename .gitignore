@@ -1,2 +1,2 @@
-__pycache__/
-.pytest
+*__pycache__/
+*.pytest
